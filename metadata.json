@@ -1,0 +1,7 @@
+{
+  "name": "BuildIT: AI Co-Founder",
+  "description": "Your ultimate AI co-founder for early-stage startup ideas. Validate fast, build smart, launch strong.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
